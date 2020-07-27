@@ -83,5 +83,5 @@ services:
         url: "https://nyt.wangcb.com/"
       - name: "Telegraph"
         logo: "assets/tools/telegraph.png"
-        subtitle: "Telegra.ph镜像（Telegram的一个发布工具）"
+        subtitle: "Telegra.ph(Telegram的一个发布工具)"
         url: "https://tgph.wangcb.com/"
